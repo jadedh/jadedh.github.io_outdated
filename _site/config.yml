@@ -2,5 +2,5 @@ name: Hank Quinlan, Horrible Cop
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 permalink: /About
-permalink: /Resume
-permalink: /Resume/Jade_Dhangwattanotai_Nov_5.pdf
+permalink: /resume
+
